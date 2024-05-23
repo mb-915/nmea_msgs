@@ -6,7 +6,9 @@ string message_id
 float64 utc_seconds
 string position_status
 
+# Latitude in decimal degrees
 float64 lat
+# Longitude in decimal degrees
 float64 lon
 
 string lat_dir

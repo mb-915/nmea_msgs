@@ -6,7 +6,9 @@ string message_id
 # UTC seconds from midnight
 float64 utc_seconds
 
+# Latitude in decimal degrees
 float64 lat
+# Longitude in decimal degrees
 float64 lon
 
 string lat_dir
